@@ -1,5 +1,5 @@
 ﻿# Feature_Engineering_Data_Preprocessing
-The data set is the data set of the people who were in the Titanic shipwreck.
+The data set is the dataset of the people who were in the Titanic shipwreck.
 
 It consists of 768 observations and 12 variables.
 
